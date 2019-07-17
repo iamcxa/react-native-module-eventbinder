@@ -1,0 +1,30 @@
+{
+  "name": "react-native-module-eventbinder",
+  "version": "0.1.1",
+  "description": "React-Natie Native module EventEmitter binder for native modules.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamcxa/react-native-module-eventbinder.git"
+  },
+  "keywords": [
+    "react-native",
+    "EventEmitter",
+    "event"
+  ],
+  "author": "Your name",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamcxa/react-native-module-eventbinder/issues"
+  },
+  "homepage": "https://github.com/iamcxa/react-native-module-eventbinder#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "babel-jest": "^24.8.0",
+    "jest": "^24.8.0",
+    "react-native": "^0.60.3"
+  }
+}
